@@ -21,14 +21,27 @@
 
 - ⚡ Fun fact **I turn coffee ☕ into code and bugs into features 😄**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pavan sai kiran nerella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan sai kiran nerella" height="30" width="40" /></a>
-<a href="https://instagram.com/pavan._.nerella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavan._.nerella" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nerellapavansai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nerellapavansai1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nerellapavansaikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nerellapavansaikiran" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nerellapavasaikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nerellapavasaikiran" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nerellapavall4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nerellapavall4x" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/pavan sai kiran nerella" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/pavan._.nerella" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/nerellapavansai1" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank" height="40" />
+  </a>
+  <a href="https://codeforces.com/profile/nerellapavansaikiran" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces" height="40" />
+  </a>
+  <a href="https://www.leetcode.com/nerellapavasaikiran" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/nerellapavall4x" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

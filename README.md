@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pavan Sai Kiran Nerella</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansaikiran-18&label=Profile%20views&color=0e75b6&style=flat" alt="pavansaikiran-18" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavansaikiran-18&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=pavansaikiran-18](https://github-profile-trophy-winning.vercel.app/?username=pavansaikiran-18
-
-)(https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)" alt="pavansaikiran-18" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pavansaikiran-18&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 - 🔭 I’m currently Looking for **Job**
 
